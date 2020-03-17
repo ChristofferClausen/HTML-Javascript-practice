@@ -1,0 +1,27 @@
+p#upper {
+    text-transform: uppercase;
+}
+
+td {
+    display: block;
+    line-height: 130%;
+}
+
+p#upper {
+    text-transform: uppercase;
+}
+
+/*ättare att hitta id än class i js*/
+.important {
+    text-transform: uppercase;
+}
+
+.red {
+    color: #ff6666;
+}
+
+/*article{*/
+/*    padding:0;*/
+/*    margin:0;*/
+/*    padding-bottom: 10px;*/
+/*}*/
